@@ -16,9 +16,9 @@ Setelah Go terinstal, Anda dapat mengklon repositori ini ke komputer lokal Anda 
 
 ```bash
 git clone https://github.com/ContentCaptain/HendraCats
+```
 
-
-#Penggunaan
+## Penggunaan
 Untuk menggunakan fungsi checkCats untuk menentukan apakah kucing-kucing sudah dewasa atau masih anak kucing, Anda perlu memanggilnya dengan dua rangkaian angka integer yang mewakili umur kucing. Berikut cara menggunakannya:
 import "fmt"
 
@@ -38,7 +38,7 @@ func main() {
     checkCats(dataTuti2, dataNining2)
 }
 
-#Contoh
+## Contoh
 Berikut adalah beberapa contoh bagaimana program ini berfungsi:
 
 Tes Pertama:
@@ -55,8 +55,8 @@ Kucing Nomor 4 itu Kucing Kecil (Kitten), dan umurnya 3 tahun
 Kucing Nomor 5 itu Kucing Kecil (Kitten), dan umurnya 10 tahun
 
 
-#Berkontribusi
+## Berkontribusi
 Jika Anda ingin berkontribusi ke proyek ini atau melaporkan masalah, silakan buka isu atau kirim permintaan tarik di repositori GitHub.
 
-#Lisensi
+## Lisensi
 Program ini bersifat open-source dan tersedia di bawah Lisensi MIT.
