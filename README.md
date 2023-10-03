@@ -15,7 +15,7 @@ Untuk menggunakan program ini, Anda perlu memiliki Go yang terinstal di komputer
 Setelah Go terinstal, Anda dapat mengklon repositori ini ke komputer lokal Anda dengan perintah berikut:
 
 ```bash
-git clone https://github.com/ContentCaptain/HendraCats
+git clone https://github.com/ContentCaptain/HendraCats.git
 ```
 
 ## Penggunaan
