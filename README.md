@@ -20,6 +20,7 @@ git clone https://github.com/ContentCaptain/HendraCats
 
 ## Penggunaan
 Untuk menggunakan fungsi checkCats untuk menentukan apakah kucing-kucing sudah dewasa atau masih anak kucing, Anda perlu memanggilnya dengan dua rangkaian angka integer yang mewakili umur kucing. Berikut cara menggunakannya:
+```
 import "fmt"
 
 // ...
@@ -37,23 +38,25 @@ func main() {
     fmt.Println("\nTes Kedua:")
     checkCats(dataTuti2, dataNining2)
 }
-
+```
 ## Contoh
 Berikut adalah beberapa contoh bagaimana program ini berfungsi:
-
+```
 Tes Pertama:
 Kucing Nomor 1 itu Kucing Dewasa, dan umurnya 5 tahun
 Kucing Nomor 2 itu Kucing Dewasa, dan umurnya 2 tahun
 Kucing Nomor 3 itu Kucing Kecil (Kitten), dan umurnya 12 tahun
 Kucing Nomor 4 itu Kucing Kecil (Kitten), dan umurnya 7 tahun
+```
 
+```
 Tes Kedua:
 Kucing Nomor 1 itu Kucing Dewasa, dan umurnya 16 tahun
 Kucing Nomor 2 itu Kucing Dewasa, dan umurnya 6 tahun
 Kucing Nomor 3 itu Kucing Dewasa, dan umurnya 8 tahun
 Kucing Nomor 4 itu Kucing Kecil (Kitten), dan umurnya 3 tahun
 Kucing Nomor 5 itu Kucing Kecil (Kitten), dan umurnya 10 tahun
-
+```
 
 ## Berkontribusi
 Jika Anda ingin berkontribusi ke proyek ini atau melaporkan masalah, silakan buka isu atau kirim permintaan tarik di repositori GitHub.
